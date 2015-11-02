@@ -1,2 +1,3 @@
 # RA-NaVisu
-![Alt text](http://www.mhyrdin.fr/Navisu/Logo-RA-NaVisuV1.png)
+<img align="center" src="http://www.mhyrdin.fr/Navisu/Logo-RA-NaVisuV1.png" alt="logo RA-NaVisu">
+
